@@ -1,0 +1,7 @@
+{
+  "name": "node-skills",
+  "description": "Node.js development skills by Matteo Collina covering Fastify, Node.js best practices, TypeScript, OAuth, testing, logging, streams, and more",
+  "author": {
+    "name": "Matteo Collina"
+  }
+}
