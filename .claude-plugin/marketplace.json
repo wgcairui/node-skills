@@ -1,0 +1,70 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "node-skills",
+  "description": "Node.js development skills by Matteo Collina covering Fastify, Node.js best practices, TypeScript, OAuth, linting, and more",
+  "owner": {
+    "name": "Matteo Collina"
+  },
+  "plugins": [
+    {
+      "name": "node",
+      "description": "Best practices for Node.js development with TypeScript, covering type stripping, async patterns, error handling, streams, modules, testing, performance, caching, logging, and graceful shutdown",
+      "source": "./skills/node",
+      "category": "development"
+    },
+    {
+      "name": "fastify",
+      "description": "Guides development of Fastify Node.js backend servers and REST APIs using TypeScript or JavaScript, covering routes, plugins, JSON Schema validation, error handling, authentication, CORS, WebSockets, and deployment",
+      "source": "./skills/fastify",
+      "category": "development"
+    },
+    {
+      "name": "nodejs-core",
+      "description": "Deep Node.js internals expertise: C++ addons, N-API/node-addon-api bindings, V8 optimization, libuv event loop, native memory debugging, and node-gyp build system",
+      "source": "./skills/nodejs-core",
+      "category": "development"
+    },
+    {
+      "name": "typescript-magician",
+      "description": "TypeScript wizard specializing in complex generics, conditional types, mapped types, type guards, branded types, and eliminating any types from codebases",
+      "source": "./skills/typescript-magician",
+      "category": "development"
+    },
+    {
+      "name": "oauth",
+      "description": "Implements OAuth 2.0/2.1 authorization flows in Fastify applications: authorization code with PKCE, client credentials, device flow, refresh token rotation, JWT validation, and token introspection",
+      "source": "./skills/oauth",
+      "category": "development"
+    },
+    {
+      "name": "linting-neostandard-eslint9",
+      "description": "Configures ESLint v9 flat config and neostandard for JavaScript and TypeScript projects, including migration from legacy .eslintrc files and CI/pre-commit integration",
+      "source": "./skills/linting-neostandard-eslint9",
+      "category": "development"
+    },
+    {
+      "name": "octocat",
+      "description": "Git and GitHub wizard using the gh CLI for pull requests, issues, branching, merging, rebasing, merge conflict resolution, GitHub Actions workflows, and repository management",
+      "source": "./skills/octocat",
+      "category": "productivity"
+    },
+    {
+      "name": "documentation",
+      "description": "Creates, structures, and reviews technical documentation following the Diátaxis framework (tutorials, how-to guides, reference, and explanation pages)",
+      "source": "./skills/documentation",
+      "category": "productivity"
+    },
+    {
+      "name": "init",
+      "description": "Creates, updates, or optimizes an AGENTS.md file for a repository with minimal, high-signal instructions covering non-discoverable conventions, tooling quirks, and project-specific rules",
+      "source": "./skills/init",
+      "category": "productivity"
+    },
+    {
+      "name": "snipgrapher",
+      "description": "Configures and uses snipgrapher to generate polished syntax-highlighted code snippet images (PNG, SVG, WebP) with custom themes, profiles, batch jobs, and watch mode",
+      "source": "./skills/snipgrapher",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "snipgrapher",
+  "description": "Configures and uses snipgrapher to generate polished syntax-highlighted code snippet images (PNG, SVG, WebP) with custom themes, profiles, batch jobs, and watch mode",
+  "author": {
+    "name": "Matteo Collina"
+  }
+}

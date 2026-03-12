@@ -1,0 +1,7 @@
+{
+  "name": "linting-neostandard-eslint9",
+  "description": "Configures ESLint v9 flat config and neostandard for JavaScript and TypeScript projects, including migration from legacy .eslintrc files and CI/pre-commit integration",
+  "author": {
+    "name": "Matteo Collina"
+  }
+}

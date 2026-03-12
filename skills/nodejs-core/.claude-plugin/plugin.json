@@ -1,0 +1,7 @@
+{
+  "name": "nodejs-core",
+  "description": "Deep Node.js internals expertise: C++ addons, N-API/node-addon-api bindings, V8 optimization, libuv event loop, native memory debugging, and node-gyp build system",
+  "author": {
+    "name": "Matteo Collina"
+  }
+}

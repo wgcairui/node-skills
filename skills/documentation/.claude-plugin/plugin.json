@@ -1,0 +1,7 @@
+{
+  "name": "documentation",
+  "description": "Creates, structures, and reviews technical documentation following the Diátaxis framework (tutorials, how-to guides, reference, and explanation pages)",
+  "author": {
+    "name": "Matteo Collina"
+  }
+}
