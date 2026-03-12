@@ -1,0 +1,7 @@
+{
+  "name": "typescript-magician",
+  "description": "TypeScript wizard specializing in complex generics, conditional types, mapped types, type guards, branded types, and eliminating any types from codebases",
+  "author": {
+    "name": "Matteo Collina"
+  }
+}
