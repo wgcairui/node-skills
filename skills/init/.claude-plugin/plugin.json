@@ -1,7 +1,0 @@
-{
-  "name": "init",
-  "description": "Creates, updates, or optimizes an AGENTS.md file for a repository with minimal, high-signal instructions covering non-discoverable conventions, tooling quirks, and project-specific rules",
-  "author": {
-    "name": "Matteo Collina"
-  }
-}

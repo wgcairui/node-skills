@@ -1,7 +1,0 @@
-{
-  "name": "octocat",
-  "description": "Git and GitHub wizard using the gh CLI for pull requests, issues, branching, merging, rebasing, merge conflict resolution, GitHub Actions workflows, and repository management",
-  "author": {
-    "name": "Matteo Collina"
-  }
-}

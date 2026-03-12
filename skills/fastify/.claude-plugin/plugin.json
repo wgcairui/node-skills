@@ -1,7 +1,0 @@
-{
-  "name": "fastify",
-  "description": "Guides development of Fastify Node.js backend servers and REST APIs using TypeScript or JavaScript, covering routes, plugins, JSON Schema validation, error handling, authentication, CORS, WebSockets, and deployment",
-  "author": {
-    "name": "Matteo Collina"
-  }
-}

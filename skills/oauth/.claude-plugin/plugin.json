@@ -1,7 +1,0 @@
-{
-  "name": "oauth",
-  "description": "Implements OAuth 2.0/2.1 authorization flows in Fastify applications: authorization code with PKCE, client credentials, device flow, refresh token rotation, JWT validation, and token introspection",
-  "author": {
-    "name": "Matteo Collina"
-  }
-}
